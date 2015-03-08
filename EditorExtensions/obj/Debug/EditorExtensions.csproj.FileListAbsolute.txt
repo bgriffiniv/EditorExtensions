@@ -1,0 +1,11 @@
+C:\Users\3C\Documents\Visual Studio 2013\Projects\EditorExtensions\EditorExtensions\bin\Debug\EditorExtensions.dll
+C:\Users\3C\Documents\Visual Studio 2013\Projects\EditorExtensions\EditorExtensions\bin\Debug\EditorExtensions.pdb
+C:\Users\3C\Documents\Visual Studio 2013\Projects\EditorExtensions\EditorExtensions\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\3C\Documents\Visual Studio 2013\Projects\EditorExtensions\EditorExtensions\bin\Debug\Assembly-CSharp.dll
+C:\Users\3C\Documents\Visual Studio 2013\Projects\EditorExtensions\EditorExtensions\bin\Debug\UnityEngine.dll
+C:\Users\3C\Documents\Visual Studio 2013\Projects\EditorExtensions\EditorExtensions\bin\Debug\Mono.Cecil.dll
+C:\Users\3C\Documents\Visual Studio 2013\Projects\EditorExtensions\EditorExtensions\bin\Debug\TDx.TDxInput.dll
+C:\Users\3C\Documents\Visual Studio 2013\Projects\EditorExtensions\EditorExtensions\bin\Debug\Mono.Security.dll
+C:\Users\3C\Documents\Visual Studio 2013\Projects\EditorExtensions\EditorExtensions\obj\Debug\EditorExtensions.csprojResolveAssemblyReference.cache
+C:\Users\3C\Documents\Visual Studio 2013\Projects\EditorExtensions\EditorExtensions\obj\Debug\EditorExtensions.dll
+C:\Users\3C\Documents\Visual Studio 2013\Projects\EditorExtensions\EditorExtensions\obj\Debug\EditorExtensions.pdb
